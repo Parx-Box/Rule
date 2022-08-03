@@ -1,3 +1,4 @@
+#Umamusume
 DOMAIN,api-umamusume.cygames.jp
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-SUFFIX,umamusume.jp
